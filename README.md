@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirRedHat
-- 👀 I’m interested in web programming and ai
+- 👀 I’m interested in web programming and softwares
 - 🌱 I’m currently learning golan and fastapi
 
 <!---
