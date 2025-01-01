@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirRedHat
 - 👀 I’m interested in web programming and softwares
-- 🌱 I’m currently learning golan and fastapi
+- 🌱 I’m currently learning Software Engineer Concepts
 
 <!---
 AmirRedHat/AmirRedHat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
